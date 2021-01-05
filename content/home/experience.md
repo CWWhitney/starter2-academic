@@ -48,7 +48,7 @@ experience:
     company_url: ''
     location: Kleve, Germany
     date_start: '2013-11-01'
-    date_end: '2017-06-31'
+    date_end: '2017-06-30'
     description: Teaching undergraduate courses in horticulture.
     
 ---
