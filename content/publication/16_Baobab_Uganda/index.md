@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: First record of baobab (textitAdansonia digitata L.) in Uganda
+title: First record of baobab (Adansonia digitata L.) in Uganda
 subtitle: ''
 summary: ''
 authors:
@@ -10,6 +10,8 @@ authors:
 - John R. S. Tabuti
 tags:
 - "Adansonia digitata"
+- "Uganda"
+- "Agrobiodiversity"
 categories: []
 date: '2016-01-01'
 lastmod: 2021-01-05T15:25:32+01:00
