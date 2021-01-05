@@ -22,24 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Postdoctoral researcher
+    company: University of Bonn, Institute of Crop Science and Resource Conservation (INRES), Horticulture Institute
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Bonn, Germany
+    date_start: '2018-04-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Teaching graduate courses
+        * Graduate student supervision
+        * Project management
         
-  - title: Professor
-    company: University X
+  - title: Guest researcher
+    company: Center for Development Research (ZEF)
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Bonn, Germany
+    date_start: '2016-10-01'
+    date_end: ''
+    description: Teaching interdisciplinary graduate courses in programming and modeling.
+
+  - title: Scientific staff
+    company: Hochschule Rhein-Waal
+    company_url: ''
+    location: Kleve, Germany
+    date_start: '2013-11-01'
+    date_end: '2017-06-31'
+    description: Teaching undergraduate courses in horticulture.
+    
 ---
