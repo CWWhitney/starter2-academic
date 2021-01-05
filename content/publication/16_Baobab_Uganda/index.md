@@ -9,7 +9,7 @@ authors:
 - Cory Whitney
 - John R. S. Tabuti
 tags:
-- '"Adansonia digitata   Baobab   East Africa   Fruit tree   Malvaceae   Uganda"'
+- "Adansonia digitata"
 categories: []
 date: '2016-01-01'
 lastmod: 2021-01-05T15:25:32+01:00
