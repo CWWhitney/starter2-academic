@@ -28,12 +28,7 @@ experience:
     location: Bonn, Germany
     date_start: '2018-04-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Teaching graduate courses
-        * Graduate student supervision
-        * Project management
+    description: Teaching graduate courses, supervision of graduate students, project management.
         
   - title: Guest researcher
     company: Center for Development Research (ZEF)
